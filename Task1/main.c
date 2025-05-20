@@ -4,7 +4,7 @@
 int main()
 {
     int age = 20;
-    int age = 100
+    int age = 100;
     float height = 5.9;
     double distance = 12345.6789;
     char initial = 'A';
