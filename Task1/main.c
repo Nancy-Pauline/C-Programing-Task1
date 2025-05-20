@@ -4,7 +4,9 @@
 int main()
 {
     int age = 20;
+    float height = 5.9;
 
-    printf("The age is %d", age);
+    printf("The age is %d\n", age);
+    printf("The height is %f\n", height);
     return 0;
 }
